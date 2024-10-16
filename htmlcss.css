@@ -1,0 +1,35 @@
+
+body{
+    background-image: linear-gradient(197deg, #e000ff, #0076ffeb);
+
+}
+
+.input{
+
+	height: 25px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid gray;
+        margin-top: 18px;
+    margin-bottom: 15px;
+}
+
+
+.form{
+background-color: white;
+    width: 21%;
+    padding: 49px;
+    border-radius: 15px;
+        margin-left: 33%;
+    margin-top: 5%;
+}
+
+.btn{
+	    background-image: linear-gradient(45deg, #b21cff, #3f65ff);
+    border: none;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border-radius: 39px;
+}
